@@ -1,0 +1,52 @@
+
+  Learn SQL (Structured Query Language) Syllabus : 
+  ================================================
+  ================================================
+   1. SQL - Home
+   2. SQL - Overview
+   3. SQL - RDBMS Concepts
+   4. SQL - Databases
+   5. SQL - Syntax
+   6. SQL - Data Types
+   7. SQL - Operators
+   8. SQL - Expressions
+   9. SQL - Create Database
+  10. SQL - Drop Database
+  11. SQL - Select Database
+  12. SQL - Create Table
+  13. SQL - Drop Table
+  14. SQL - Insert Query
+  15. SQL - Select Query
+  16. SQL - Where Clause
+  17. SQL - AND & OR Clauses
+  18. SQL - Update Query
+  19. SQL - Delete Query
+  20. SQL - Like Clause
+  21. SQL - Top Clause
+  22. SQL - Order By
+  23. SQL - Group By
+  24. SQL - Distinct Keyword
+  25. SQL - Sorting Results
+
+        ** Advanced SQL **
+           ============
+           ============
+   1. SQL - Constraints
+   2. SQL - Using Joins
+   3. SQL - Unions Clause
+   4. SQL - NULL Values
+   5. SQL - Alias Syntax
+   6. SQL - Indexes
+   7. SQL - Alter Command
+   8. SQL - Truncate Table
+   9. SQL - Using Views
+  10. SQL - Having Clause
+  11. SQL - Transactions
+  12. SQL - Wildcards
+  13. SQL - Date Functions
+  14. SQL - Temporary Tables
+  15. SQL - Clone Tables 
+  16. SQL - Sub Queries
+  17. SQL - Using Sequences
+  18. SQL - Handling Duplicates
+  19. SQL - Injection
